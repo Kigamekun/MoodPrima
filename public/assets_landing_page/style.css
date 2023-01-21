@@ -1,0 +1,127 @@
+/* bootstrap class */
+
+/* nav default bg */
+/* bg-body-tertiary */
+
+/* end bootstrap class */
+
+/* style here */
+
+.active {
+    color: #6ECCAF !important;
+}
+
+.banner {
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.btn-outline-success {
+    color: #6ECCAF !important;
+    border-color: #6ECCAF !important;
+    filter: brightness(1.30);
+}
+
+.btn-outline-success:hover {
+    color: black !important;
+    border-color: #6ECCAF !important;
+    filter: brightness(1.30);
+    background-color: #6ECCAF !important;
+}
+
+/* about */
+.about {
+    background-color: #EBEBEB;
+}
+
+.about-desc {
+    margin-top: 80px;
+}
+
+.about-btn {
+    background-color: #6ECCAF;
+    width: 200px;
+}
+
+.about-btn:hover {
+    background-color: black;
+    color: #6ECCAF;
+}
+
+
+/* join us */
+.join-us {
+    background-color: #EBEBEB;
+}
+
+.btn-outline-primary {
+    color: #6ECCAF !important;
+    border-color: #6ECCAF !important;
+}
+
+.btn-outline-primary:hover {
+    color: black !important;
+    border-color: #6ECCAF !important;
+    background-color: #6ECCAF !important;
+}
+
+.profile {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: -50px;
+    position: relative;
+    z-index: 1;
+}
+
+/* contact */
+.contact-icon {
+    margin-right: 20px;
+}
+
+.contact a {
+    text-decoration: none;
+}
+
+.contact-desc p {
+    margin-right: 120px;
+}
+
+.form-input input {
+    background-color: #F4F4F4;
+}
+
+.form-input textarea {
+    background-color: #F4F4F4;
+}
+
+.btn-success {
+    background-color: #7CCEB4 !important;
+    border-color: #7CCEB4;
+}
+
+.btn-success:hover {
+    background-color: black !important;
+    border-color: black;
+    color: #7CCEB4;
+}
+
+/* footer */
+footer {
+    background-color: #2F9E7B;
+}
+
+.border-top {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.footer-top {
+    margin-left: 90px;
+    margin-right: 90px;
+}
